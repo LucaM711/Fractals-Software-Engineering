@@ -12,3 +12,14 @@ Fractal Zoomer is an interactive web application designed to allow users to expl
 - **Customization**: Users can change color schemes, adjust zoom speed, and explore different visual settings to personalize the experience.
 - **Mandelbrot Set Focus**: Explore the famous Mandelbrot set, known for its fractal patterns.
 
+## Requirements
+
+To run the fractal generation code, you'll need to install the following libraries:
+
+1. **`matplotlib`** - For plotting and visualizing the fractals.
+   ```bash
+   pip install matplotlib
+2. **`numpy`** - For numerical operations and handling arrays.
+ ```bash
+pip install numpy
+   
