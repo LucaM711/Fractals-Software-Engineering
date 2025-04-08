@@ -10,5 +10,5 @@ Fractal Zoomer is an interactive web application designed to allow users to expl
 - **Interactive Navigation**: The interface allows users to easily zoom in and out, exploring areas of interest within the fractal.
 - **Real-Time Rendering**: As the user zooms, the fractal is dynamically rendered in real time, ensuring a smooth experience.
 - **Customization**: Users can change color schemes, adjust zoom speed, and explore different visual settings to personalize the experience.
-- **Mandelbrot Set Focus**: Explore the famous Mandelbrot set, known for its beautiful fractal patterns.
+- **Mandelbrot Set Focus**: Explore the famous Mandelbrot set, known for its fractal patterns.
 
