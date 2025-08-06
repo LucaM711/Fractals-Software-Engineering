@@ -2,7 +2,7 @@ Fractal Zoomer
 
 ## Introduction
 
-Fractal Zoomer is an interactive web application designed to allow users to explore fractals, focusing on the Mandelbrot Set. This project provides an infinite zoom feature, enabling users to explore the intricate patterns that emerge as they zoom deeper into fractals. The application is built using web technologies, ensuring a responsive and immersive experience.
+Fractal Zoomer is an interactive application designed to allow users to explore fractals, focusing on the Mandelbrot Set. This project provides an infinite zoom feature, enabling users to explore the intricate patterns that emerge as they zoom deeper into fractals. The application is built using web technologies, ensuring a responsive and immersive experience.
 
 ## Features
 
